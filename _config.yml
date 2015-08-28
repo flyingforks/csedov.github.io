@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Dennis Sedov
-tagline:             The Jekyll Butler
+tagline:             General Intelligence
 url:                 http://dsedov.com
 paginate:            1
 baseurl:             ""
