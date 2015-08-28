@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Dennis Sedov
 tagline:             General Intelligence
 url:                 http://dsedov.com
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
