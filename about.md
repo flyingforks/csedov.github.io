@@ -7,7 +7,7 @@ title: About
   With time this page should become ever more interesting.
 </p>
 
-Obviously, there should be some useful information about my humble self. Unfortunately, 
+Obviously, there should be some useful information about my humble self. Unfortunately,
 
 ## Setup
 
