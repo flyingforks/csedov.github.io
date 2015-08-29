@@ -10,4 +10,4 @@ This post marks the start of my journey with Jekyll and Github. I have edited it
 
 Another test proved to be very useful. I can open this post in **Byword** via **Working Copy**
 
-This text, in the other hand, is written by JotterPad on an Android phone, with PocketGit acting as an interface with GitHub. How to choose?
+This text, on the other hand, is written in JotterPad on an Android phone, with PocketGit acting as an interface with GitHub. How to choose?
