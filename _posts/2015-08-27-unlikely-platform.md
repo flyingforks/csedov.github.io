@@ -3,4 +3,8 @@ layout: post
 title: Unlikely Platform
 ---
 
-This post marks the start of my journey with Jekyll and Github. 
+Well, what can I say. 
+
+What do you really need to know at this point? It’s my journey. I packed my thoughts and set off for some inspiring writing, that’s it. Writing goes along with introspection and stimulates more thoughts. 
+
+I have some reasons to believe it will be beneficial for me to write down random thoughts. Maybe one day I will look back at all this stuff and say "Well, that’s embarassing. Let’s start over”. 
