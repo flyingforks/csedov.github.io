@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sloth Writing
+category: thought
 date: 2015-08-28 23:00:00 -8:00
 omittitle: true
 ---

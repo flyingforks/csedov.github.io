@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Information
+category: thought
 date: 2015-08-29 8:00:00
 omittitle: true
 ---

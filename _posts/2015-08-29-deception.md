@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deception
+category: thought
 date: 2015-08-29 9:00:00
 omittitle: true
 ---
