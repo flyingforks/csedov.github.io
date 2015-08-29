@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlikely Platform
-category: thought
+category: thoughts
 date: 2015-08-27 10:00:00 -8:00
 omittitle: true
 ---
