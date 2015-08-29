@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Camilla Sedov
 tagline:             General Intelligence
 url:                 http://csedov.com
-paginate:            1
+paginate:            5
 baseurl:             ""
 
 # Assets
