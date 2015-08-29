@@ -10,6 +10,7 @@ tagline:             General Intelligence
 url:                 http://dsedov.com
 paginate:            5
 baseurl:             http://dsedov.com
+timezone:            America/Los_Angeles
 
 # Assets
 #
